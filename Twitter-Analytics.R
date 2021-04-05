@@ -33,10 +33,10 @@ library(randomForest)
 
 
 ### Twitter Application
-consumer_key <- "T8hc9AQuZ4cF5BEzbHV7qMBvw"
-consumer_secret <- "slgULkaaXEl5Ty2Lq8s9aslMiCTPhfuDbFvArbYYQdBfLxywJ2"
-access_token <- "962844637-Gb6dMFy3bbxJrWbPetFos7Wwp7fawWMDm6PxFwZh"
-access_secret <- "QDQD23fv3h4timGfW6aOKwE3r0TqYe8tRrAuuIvHKnPka"
+consumer_key <- "xxxx"
+consumer_secret <- "xxxx"
+access_token <- "xxxx"
+access_secret <- "xxx"
 token <- create_token(
   app = "Text_Analytics Trial",
   consumer_key = consumer_key,
